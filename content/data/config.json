@@ -12,7 +12,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Pagina inicial",
                 "url": "/",
                 "style": "link"
             },
